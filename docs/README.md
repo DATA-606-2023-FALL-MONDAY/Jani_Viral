@@ -1,5 +1,5 @@
 # Resume
-![Viral Jani's Profile Picture](./Viral_Profile_Photo_3.jpeg)
+![Viral Jani's Profile Picture](https://github.com/Viral-0/UMBC-DATA606-FALL2023-MONDAY/blob/main/Viral_Profile_Photo_3.jpeg)
 # VIRAL JANI
 Jacksonville, FL | 📞: +1-904-348-0160 | 📧: viraljani40@gmail.com
 
