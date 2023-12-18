@@ -1,11 +1,11 @@
-# DATA 606: Capstone Project in Data Science
-
-## 1. Title and Author
-**Project Title:** Parking Space Predictor
+# DATA 606: Capstone Project in Data Science 
+## Project Title: Parking Space Predictor
 
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
-**Author Name:** Viral Harishkumar Jani
+**Author Name:** [Viral Harishkumar Jani](https://github.com/DATA-606-2023-FALL-MONDAY/Jani_Viral/blob/main/docs/README.md)
+
+**Semester:** Fall 2023
 
 **Link to the GitHub profile:** [Viral Github](https://github.com/DATA-606-2023-FALL-MONDAY/Jani_Viral)
 
@@ -13,7 +13,7 @@
 
 **Link to the Youtube Video:** [Project_Video_Presentation]()
 
-## 2. Background
+## Background
 **Why choose this project?**
 
 Parking in urban areas is increasingly becoming a challenge due to the growing number of vehicles and limited space. The ability to predict parking availability can significantly reduce the time drivers spend searching for parking, leading to reduced congestion and carbon emissions.
@@ -36,7 +36,7 @@ Such a predictive system can:
 - Which factors most influence parking availability?
 - How does the prediction accuracy vary by time of day, day of the week, or specific events?
 
-## 3. Data
+## Data
 - The data for this project will be Image data of the parking lots. There are more than 10K+ images from which we can predict if the slot will be occuiped or free.
 
 **Data sources:**
@@ -98,7 +98,7 @@ where:
     - CAM_ID is the number of the camera, ranging 1-9,
     - CAPTURE_TIME is the zero-padded 24-hour HHMM formatted capture time.
 
-## 4. Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 To gain insights into the parking space availability, we performed an exploratory data analysis on a subset of the data. The EDA process involved examining general statistics, identifying missing values, and analyzing the distribution of occupancy, both by camera and over time.
 
@@ -141,7 +141,7 @@ This trend suggests the busiest period in the parking area is around mid-day, li
 
 The visualizations and data points discussed in this section are crucial for understanding the dynamics of parking space usage and will inform the subsequent modeling efforts.
 
-## 5. Machine Learning Model
+## Machine Learning Model
 
 #### Initial Approach with ResNet50
 
@@ -180,7 +180,7 @@ The evolution of the machine learning approach in this project underscored the i
 
 [Link to the demonstration video](https://youtu.be/UxVQqHXkRXM)
 
-## 6. Conclusion
+## Conclusion
 
 This capstone project embarked on the ambitious goal of developing a system to predict real-time parking space availability. The journey began with a clear understanding of the urban challenges posed by parking and progressed through various stages of data collection, exploratory data analysis, and machine learning model implementation.
 
